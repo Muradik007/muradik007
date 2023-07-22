@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Web Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: #333;
-    }
-    h2 {
-      color: #555;
-    }
-    article {
-      margin-bottom: 40px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
 </head>
 <body>
   <h1>Welcome to My Web Page</h1>
